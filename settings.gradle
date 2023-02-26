@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "mviCleanTemplate"
 include ':app'
+include ':domain'
+include ':data'
+include ':di'
+include ':base'
